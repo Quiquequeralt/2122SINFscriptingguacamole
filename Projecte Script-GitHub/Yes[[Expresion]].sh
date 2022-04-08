@@ -6,3 +6,5 @@ filename=testfile
         else
             echo “$filename has not been found”
     fi
+
+exit 0
